@@ -7,3 +7,5 @@ The data is divided into two parts which are the training part that contains 891
 The data contains 12 varaibles. The R code file "R_CODE.R" containes analysis and feature extraction from the 12 different variable whihc shows that some variables are predicitve and some are not. Figure 1 shows the titianic passnger survival in terms of sex and passnger class. From the figure, we can clearly see that survival rate for female is higher than male on all the three classes. Moreover, passnger on the first class have a higher survival rate from any other class. Thus, the variables sex and passnger class seems to have a prdictive peroframnce and will be included in the models. On the other hand, 
 
 ![Figure 1: Passnger and Survival among Passenger Class](Rplot01.png)
+
+
