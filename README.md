@@ -16,7 +16,7 @@ On the other hand, the variable name on this data set is not predicitve as every
 
 
 ### Conclusion:
-The random forest statistical method outperformed the linear discriminant analysis and the logistic regression methods in predicting the survival of the Titanic passenger as shown in the table below. The linear discriminant analysis performed better than the logistic regression in predicting the survival of the Titanic passenger. Cross vailation method implemtned on all of the predicitons to improve the accuracy of the models. Estimating the missing values for the variable age with median has a negative impact on the accuracy of all the models, so there is a room for improvement if the missing values of age are better estimated with other methods rather than the median.
+The random forest statistical method outperformed the linear discriminant analysis and the logistic regression methods in predicting the survival of the Titanic passenger as shown in the table below. The linear discriminant analysis performed better than the logistic regression in predicting the survival of the Titanic passenger. Cross vailation method implemtned on all of the predicitons to improve the accuracy of the models. Estimating the missing values for the variable age with median has a negative impact on the accuracy, so there is a room for improvement if the missing values of age are better estimated with other methods rather than the median.
 
 
 | Model Type | Random Forest |  Logistic Regression | Linear Discriminant Analysis |
