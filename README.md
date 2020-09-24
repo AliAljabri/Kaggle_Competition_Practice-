@@ -9,7 +9,7 @@ The data contains 12 varaibles. The R code file "R_CODE.R"" containes analysis  
 ![Figure 1: Passnger and Survival among Passenger Class](Rplot01.png)
 
 
-On the other hand, the variable name on this data set is not predicitve as every passnger has different name, but every name has title and by extracting the title, we discover that there is a pettern with survival as shown in figure 2 which shown that passnger with name title Miss, Mrs and Master survived more that passnger with a name title Mr. 
+On the other hand, the variable name on this data set is not predicitve as every passnger has a different name, but every name has title and by extracting the title, we discover that there is a pettern with survival as shown in figure 2 which shown that passnger with name title Miss, Mrs and Master survived more that passnger with a name title Mr. 
 
 
 ![Figure 2: Passnger Survival & Name Title](Rplot02.png)
